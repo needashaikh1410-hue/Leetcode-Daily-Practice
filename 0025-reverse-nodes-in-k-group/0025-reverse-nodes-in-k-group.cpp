@@ -30,28 +30,27 @@ private:
     }
 public:
     ListNode* reverseKGroup(ListNode* head, int k) {
-        ListNode* temp=head;
+        ListNode*temp=head;
         ListNode* prev=nullptr;
         while(temp!=nullptr){
-            ListNode* kth_node=find_kth(temp,k);
-            if(kth_node==nullptr){
+            ListNode* kth=find_kth(temp,k);
+            if(kth==nullptr){
                 if(prev){
                     prev->next=temp;
                 }
-                break;
-            }
-            ListNode* next_node=kth_node->next;
-            kth_node->next=nullptr;
-            reversell(temp);
-            if(temp==head){
-                head=kth_node;
-            }
-            else{
-                prev->next=kth_node;
-            }
-            prev=temp;
-            temp=next_node;
-        }
-        return head;
+                break;}
+                ListNode* next_node=kth->next;
+                kth->next=nullptr;
+                reversell(temp);
+                if(temp==head){
+                    head=kth;
+                }
+                else{
+                    prev->next=kth;
+                }
+                prev=temp;
+                temp=next_node;
+        } 
+         return head;
     }
 };
