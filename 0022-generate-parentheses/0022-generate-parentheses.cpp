@@ -18,7 +18,7 @@ private:
 public:
     vector<string> generateParenthesis(int n) {
         vector<string> vec;
-        string ans;
+        string ans="";
         solve(0,0,n,ans,vec);
         return vec;
     }
