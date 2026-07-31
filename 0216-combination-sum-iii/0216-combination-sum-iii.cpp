@@ -1,17 +1,17 @@
 class Solution {
 private:
-    void solve(int i,int target,int k,vector<int>&curr,vector<vector<int>>&ans){
+    void solve(int start,int target,int k,vector<int>&curr,vector<vector<int>>&ans){
         if(k==0 && target==0){
             ans.push_back(curr);
-            return;
-        }
-        if(target<0||i>9 ||k<0){
-            return;
-        }
-        solve(i+1,target,k,curr,ans);
+            return;}
+        for(int i=start;i<=9;i++){
+        if(k==0){return;}
+        if(i>target){
+            break;}
         curr.push_back(i);
         solve(i+1,target-i,k-1,curr,ans);
         curr.pop_back();
+        }
     }
 public:
     vector<vector<int>> combinationSum3(int k, int n) {
