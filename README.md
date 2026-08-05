@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0050-powx-n) |
 | [0282-expression-add-operators](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0282-expression-add-operators) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1922-count-good-numbers](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/1922-count-good-numbers) |
 ## Recursion
 |  |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0216-combination-sum-iii) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 ## Bit Manipulation
 |  |
