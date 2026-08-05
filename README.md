@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Backtracking
 |  |
 | ------- |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0053-maximum-subarray) |
 | [0079-word-search](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0090-subsets-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0216-combination-sum-iii](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0216-combination-sum-iii) |
 | [0485-max-consecutive-ones](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0485-max-consecutive-ones) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
