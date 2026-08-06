@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0231-power-of-two) |
 | [0282-expression-add-operators](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0282-expression-add-operators) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1922-count-good-numbers](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/1922-count-good-numbers) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0231-power-of-two) |
 | [1922-count-good-numbers](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/1922-count-good-numbers) |
 ## Two Pointers
 |  |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0090-subsets-ii) |
+| [0231-power-of-two](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0231-power-of-two) |
 ## Depth-First Search
 |  |
 | ------- |
