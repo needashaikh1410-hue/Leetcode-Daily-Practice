@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0136-single-number) |
 | [0216-combination-sum-iii](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0216-combination-sum-iii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0485-max-consecutive-ones](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0485-max-consecutive-ones) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0029-divide-two-integers) |
 | [0090-subsets-ii](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0231-power-of-two) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Depth-First Search
