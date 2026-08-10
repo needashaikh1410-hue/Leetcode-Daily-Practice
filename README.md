@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0002-add-two-numbers) |
 | [0029-divide-two-integers](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0050-powx-n) |
+| [0204-count-primes](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0231-power-of-two) |
 | [0282-expression-add-operators](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0282-expression-add-operators) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0136-single-number) |
+| [0204-count-primes](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0204-count-primes) |
 | [0216-combination-sum-iii](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0216-combination-sum-iii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0260-single-number-iii) |
@@ -138,5 +140,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0204-count-primes) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/2221-find-triangular-sum-of-an-array) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
