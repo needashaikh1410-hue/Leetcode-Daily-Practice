@@ -1,41 +1,55 @@
-
-
-#include <iostream>
-#include <stack>
-#include <algorithm>
-
-using namespace std;
-
 class MinStack {
 private:
-    // Pair stores {element_value, current_minimum}
-    stack<pair<int, int>> st;
-
+    long long mini=INT_MAX;
+    stack<long long >st;
 public:
     MinStack() {
+        
     }
     
     void push(int value) {
-        if (st.empty()) {
-            st.push({value, value}); // Fix 1 & 2: Use curly braces for pairs and st.push()
-        } else {
-            int currentMin = min(value, st.top().second);
-            st.push({value, currentMin}); // Fix 3: Proper syntax and matching parenthesis
+        if(st.empty()){
+            mini=value;
+            st.push(value);
+        }
+        else{
+            if(value<mini){
+                long long val=value;
+                long long x=val*2-mini;
+                mini=value;
+                st.push(x);
+            }
+            else{
+                st.push(value);
+            }
         }
     }
     
     void pop() {
-        if (!st.empty()) {
-            st.pop(); // Fix 4: Void return type, no 'return ans;'
+        if(st.empty()){return;}
+        if(st.top()<mini){
+            mini=2*mini-st.top();
+            st.pop();
+        }
+        else{
+            st.pop();
         }
     }
     
     int top() {
-        return st.top().first;
+        if(st.empty()){
+            return -1;
+        }
+        if(st.top()<mini){
+            return mini;
+        }
+        else{
+            return st.top();
+        }
     }
     
     int getMin() {
-        return st.top().second;
+        return mini;
     }
 };
 
