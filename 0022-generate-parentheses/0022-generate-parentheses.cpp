@@ -1,25 +1,27 @@
 class Solution {
 private:
-    void solve(int open,int close,int n,string &curr,vector<string>&vec){
+    void solve(int open ,int close,int n,string &curr,vector<string> &ans){
         if(close==n && open==n){
-            vec.push_back(curr);
+            ans.push_back(curr);
             return;
         }
         if(open<n){
-            curr.push_back('(');
-            solve(open+1,close,n,curr,vec);
+            curr+='(';
+            solve(open+1,close,n,curr,ans);
             curr.pop_back();
         }
         if(close<open){
-            curr.push_back(')');
-            solve(open,close+1,n,curr,vec);
-            curr.pop_back();}    
+            curr+=')';
+            solve(open,close+1,n,curr,ans);
+            curr.pop_back();
+        }
+        
     }
 public:
     vector<string> generateParenthesis(int n) {
-        vector<string> vec;
-        string ans="";
-        solve(0,0,n,ans,vec);
-        return vec;
+        string curr="";
+        vector<string>ans;
+        solve(0,0,n,curr,ans);
+        return ans;
     }
 };
