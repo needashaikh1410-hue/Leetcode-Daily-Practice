@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0260-single-number-iii) |
 | [0485-max-consecutive-ones](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0503-next-greater-element-ii) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1539-kth-missing-positive-number](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/1539-kth-missing-positive-number) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0503-next-greater-element-ii) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
@@ -205,4 +207,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
