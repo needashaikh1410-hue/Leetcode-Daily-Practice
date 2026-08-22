@@ -3,7 +3,7 @@ public:
     vector<int> asteroidCollision(vector<int>& asteroids) {
         vector<int> st;
         for(int i=0;i<asteroids.size();i++){
-            if(!st.empty() && asteroids[i]>0){
+            if(asteroids[i]>0){
                 st.push_back(asteroids[i]);
             }
             else{
