@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0061-rotate-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0138-copy-list-with-random-pointer) |
+| [0206-reverse-linked-list](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0206-reverse-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0509-fibonacci-number) |
 | [1922-count-good-numbers](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/1922-count-good-numbers) |
