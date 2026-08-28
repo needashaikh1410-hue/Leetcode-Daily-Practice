@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0092-reverse-linked-list-ii](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0092-reverse-linked-list-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0138-copy-list-with-random-pointer) |
 | [0206-reverse-linked-list](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0206-reverse-linked-list) |
+| [0460-lfu-cache](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0460-lfu-cache) |
 ## Math
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0037-sudoku-solver) |
 | [0138-copy-list-with-random-pointer](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0138-copy-list-with-random-pointer) |
+| [0460-lfu-cache](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0496-next-greater-element-i) |
 ## String
 |  |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0232-implement-queue-using-stacks) |
+| [0460-lfu-cache](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0460-lfu-cache) |
 | [0901-online-stock-span](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0901-online-stock-span) |
 ## Queue
 |  |
@@ -271,4 +274,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0901-online-stock-span) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0460-lfu-cache](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0460-lfu-cache) |
 <!---LeetCode Topics End-->
