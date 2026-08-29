@@ -7,15 +7,15 @@ public:
                 zero++;
             }
             if(zero>k){
-                while(zero>k){
                     if(nums[l]==0){
                         zero--;
                     }
-                    l+=1;
-                }
+                l+=1;
+                
             }
+            if(zero<=k){
             int len=r-l+1;
-            max_len=max(max_len,len);
+            max_len=max(max_len,len);}
 
         }
 
