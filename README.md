@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0907-sum-of-subarray-minimums) |
+| [1004-max-consecutive-ones-iii](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1539-kth-missing-positive-number](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/1539-kth-missing-positive-number) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0240-search-a-2d-matrix-ii) |
+| [1004-max-consecutive-ones-iii](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1539-kth-missing-positive-number](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/1539-kth-missing-positive-number) |
 ## Divide and Conquer
 |  |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0239-sliding-window-maximum) |
+| [1004-max-consecutive-ones-iii](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/1004-max-consecutive-ones-iii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -281,4 +284,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0460-lfu-cache](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0460-lfu-cache) |
+## Prefix Sum
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
