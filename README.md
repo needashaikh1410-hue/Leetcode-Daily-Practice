@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0037-sudoku-solver) |
 | [0138-copy-list-with-random-pointer](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0138-copy-list-with-random-pointer) |
+| [0424-longest-repeating-character-replacement](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0460-lfu-cache](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0496-next-greater-element-i) |
 | [0904-fruit-into-baskets](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0904-fruit-into-baskets) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0282-expression-add-operators](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0282-expression-add-operators) |
 | [0344-reverse-string](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0344-reverse-string) |
 | [0402-remove-k-digits](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0402-remove-k-digits) |
+| [0424-longest-repeating-character-replacement](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 ## Dynamic Programming
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0239-sliding-window-maximum) |
+| [0424-longest-repeating-character-replacement](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/1004-max-consecutive-ones-iii) |
 ## Heap (Priority Queue)
