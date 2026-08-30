@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0138-copy-list-with-random-pointer) |
 | [0460-lfu-cache](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0496-next-greater-element-i) |
+| [0904-fruit-into-baskets](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0904-fruit-into-baskets) |
 ## String
 |  |
 | ------- |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0735-asteroid-collision) |
+| [0904-fruit-into-baskets](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0907-sum-of-subarray-minimums) |
 | [1004-max-consecutive-ones-iii](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0239-sliding-window-maximum) |
+| [0904-fruit-into-baskets](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/1004-max-consecutive-ones-iii) |
 ## Heap (Priority Queue)
 |  |
