@@ -3,18 +3,15 @@ private:
 
 public:
     int numberOfSubstrings(string s) {
-        int arr[3]={0};
+        int ls[3]={-1,-1,-1};
         int n=s.size();
-        int l=0,r=0,ans=0;
-        for(;r<n;r++){
-            arr[s[r]-'a']++;
-            while(arr[0]>0 && arr[1]>0 && arr[2]>0 ){
-               ans+=(n-r);
-               arr[s[l]-'a']--;
-               l++; 
+        int ans=0;
+        for(int i=0;i<n;i++){
+            ls[s[i]-'a']=i;
+            if (ls[0]!=-1 && ls[1]!=-1 && ls[2]!=-1 ){
+               ans+=1+min({ls[0],ls[1],ls[2]});
             }
         }
         return ans;
-
     }
 };
