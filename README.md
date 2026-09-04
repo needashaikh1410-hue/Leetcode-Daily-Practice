@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0344-reverse-string) |
 | [0402-remove-k-digits](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0424-longest-repeating-character-replacement) |
+| [0678-valid-parenthesis-string](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0678-valid-parenthesis-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0509-fibonacci-number) |
 | [0650-2-keys-keyboard](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0650-2-keys-keyboard) |
+| [0678-valid-parenthesis-string](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0678-valid-parenthesis-string) |
 | [0907-sum-of-subarray-minimums](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0907-sum-of-subarray-minimums) |
 ## Backtracking
 |  |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0735-asteroid-collision) |
 | [0901-online-stock-span](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0907-sum-of-subarray-minimums) |
@@ -241,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0022-generate-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0678-valid-parenthesis-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Memoization
 |  |
@@ -277,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0402-remove-k-digits](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0455-assign-cookies) |
+| [0678-valid-parenthesis-string](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0860-lemonade-change) |
 ## Range Minimum/Maximum Query
 |  |
