@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0735-asteroid-collision) |
+| [0860-lemonade-change](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0860-lemonade-change) |
 | [0904-fruit-into-baskets](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0907-sum-of-subarray-minimums) |
 | [0930-binary-subarrays-with-sum](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0930-binary-subarrays-with-sum) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0402-remove-k-digits](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0860-lemonade-change) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
