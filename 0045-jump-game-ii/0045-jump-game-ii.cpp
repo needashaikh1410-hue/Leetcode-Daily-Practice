@@ -8,7 +8,7 @@ public:
                 farthest=max(farthest,nums[i]+i);
             }
             jumps++;
-            l=r++;
+            l=r+1;
             r=farthest;
         }
         return jumps;
