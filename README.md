@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0135-candy](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0136-single-number) |
 | [0204-count-primes](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0204-count-primes) |
 | [0216-combination-sum-iii](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0216-combination-sum-iii) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0055-jump-game) |
+| [0135-candy](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0135-candy) |
 | [0402-remove-k-digits](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0678-valid-parenthesis-string) |
