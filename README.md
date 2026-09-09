@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0435-non-overlapping-intervals](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0509-fibonacci-number) |
 | [0650-2-keys-keyboard](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0650-2-keys-keyboard) |
 | [0678-valid-parenthesis-string](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0678-valid-parenthesis-string) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0260-single-number-iii) |
+| [0435-non-overlapping-intervals](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0496-next-greater-element-i) |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0135-candy) |
 | [0402-remove-k-digits](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0402-remove-k-digits) |
+| [0435-non-overlapping-intervals](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0860-lemonade-change) |
@@ -346,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0088-merge-sorted-array) |
+| [0435-non-overlapping-intervals](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0455-assign-cookies) |
 ## Quicksort
 |  |
