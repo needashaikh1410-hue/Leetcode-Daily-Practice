@@ -20,18 +20,18 @@ public:
             }
 
             // Upward slope
-            int peak = 0;
+            int peak = 1;
             while (i < n && ratings[i] > ratings[i - 1]) {
                 peak++;
-                sum += peak + 1;
+                sum += peak ;
                 i++;
             }
 
             // Downward slope
-            int downward = 0;
+            int downward = 1;
             while (i < n && ratings[i] < ratings[i - 1]) {
-                downward++;
                 sum += downward;
+                downward++;
                 i++;
             }
 
