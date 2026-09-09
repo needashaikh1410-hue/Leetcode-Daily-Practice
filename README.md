@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0057-insert-interval) |
 | [0078-subsets](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0079-word-search) |
@@ -343,10 +344,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0088-merge-sorted-array) |
 | [0455-assign-cookies](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0455-assign-cookies) |
 ## Quicksort
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0056-merge-intervals) |
 | [0455-assign-cookies](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
