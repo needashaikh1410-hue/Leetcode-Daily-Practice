@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0005-longest-palindromic-substring) |
+| [0015-3sum](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0061-rotate-list) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0015-3sum) |
 | [0037-sudoku-solver](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0040-combination-sum-ii) |
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0088-merge-sorted-array) |
 | [0435-non-overlapping-intervals](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0435-non-overlapping-intervals) |
