@@ -26,7 +26,7 @@ private:
 public:
     bool isSubtree(TreeNode* root, TreeNode* subroot) {
         if(subroot==nullptr){
-            return false;
+            return true;
         }
         if(root==nullptr){
             return false;
