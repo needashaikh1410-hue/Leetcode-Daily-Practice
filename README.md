@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0145-binary-tree-postorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0572-subtree-of-another-tree) |
 ## Matrix
@@ -397,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0145-binary-tree-postorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0572-subtree-of-another-tree) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0958-check-completeness-of-a-binary-tree) |
@@ -411,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0145-binary-tree-postorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0572-subtree-of-another-tree) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0958-check-completeness-of-a-binary-tree) |
@@ -420,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0199-binary-tree-right-side-view](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0199-binary-tree-right-side-view) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0958-check-completeness-of-a-binary-tree) |
 ## String Matching
 |  |
