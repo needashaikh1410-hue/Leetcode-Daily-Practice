@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0037-sudoku-solver) |
+| [0051-n-queens](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0051-n-queens) |
 ## Dancing Links
 |  |
 | ------- |
