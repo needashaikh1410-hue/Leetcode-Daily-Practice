@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0460-lfu-cache](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0496-next-greater-element-i) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0904-fruit-into-baskets](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0992-subarrays-with-k-different-integers) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0662-maximum-width-of-binary-tree) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## Matrix
 |  |
 | ------- |
@@ -404,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0662-maximum-width-of-binary-tree) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0958-check-completeness-of-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -420,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0662-maximum-width-of-binary-tree) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0958-check-completeness-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -429,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0199-binary-tree-right-side-view) |
 | [0662-maximum-width-of-binary-tree](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0662-maximum-width-of-binary-tree) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0958-check-completeness-of-a-binary-tree) |
 ## String Matching
 |  |
