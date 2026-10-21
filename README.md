@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0650-2-keys-keyboard](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0650-2-keys-keyboard) |
 | [0678-valid-parenthesis-string](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0678-valid-parenthesis-string) |
 | [0907-sum-of-subarray-minimums](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0907-sum-of-subarray-minimums) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Backtracking
 |  |
 | ------- |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Matrix
 |  |
@@ -417,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Tree
 |  |
@@ -437,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Breadth-First Search
 |  |
@@ -462,4 +466,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0543-diameter-of-binary-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 <!---LeetCode Topics End-->
