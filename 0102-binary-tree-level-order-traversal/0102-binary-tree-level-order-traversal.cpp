@@ -1,10 +1,10 @@
 /**
  * Definition for a binary tree node.
  * struct TreeNode {
- *     int data;
+ *     int val;
  *     TreeNode *left;
  *     TreeNode *right;
- *      TreeNode(int val) : data(val) , left(nullptr) , right(nullptr) {}
+ *      TreeNode(int data) : val(data) , left(nullptr) , right(nullptr) {}
  * };
  **/
 
