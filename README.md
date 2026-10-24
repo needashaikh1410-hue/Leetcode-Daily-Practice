@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0503-next-greater-element-ii) |
+| [0704-binary-search](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0735-asteroid-collision) |
 | [0860-lemonade-change](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0860-lemonade-change) |
 | [0904-fruit-into-baskets](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0904-fruit-into-baskets) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0240-search-a-2d-matrix-ii) |
+| [0704-binary-search](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1539-kth-missing-positive-number](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/1539-kth-missing-positive-number) |
 ## Divide and Conquer
