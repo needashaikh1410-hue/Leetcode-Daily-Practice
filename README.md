@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0344-reverse-string) |
 | [0402-remove-k-digits](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0424-longest-repeating-character-replacement) |
+| [0449-serialize-and-deserialize-bst](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0449-serialize-and-deserialize-bst) |
 | [0678-valid-parenthesis-string](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0678-valid-parenthesis-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0199-binary-tree-right-side-view) |
+| [0449-serialize-and-deserialize-bst](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0449-serialize-and-deserialize-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0662-maximum-width-of-binary-tree) |
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0232-implement-queue-using-stacks) |
+| [0449-serialize-and-deserialize-bst](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0449-serialize-and-deserialize-bst) |
 | [0460-lfu-cache](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0460-lfu-cache) |
 | [0901-online-stock-span](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0901-online-stock-span) |
 ## Queue
@@ -424,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0222-count-complete-tree-nodes) |
+| [0449-serialize-and-deserialize-bst](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0449-serialize-and-deserialize-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0662-maximum-width-of-binary-tree) |
@@ -447,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0222-count-complete-tree-nodes) |
+| [0449-serialize-and-deserialize-bst](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0449-serialize-and-deserialize-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0662-maximum-width-of-binary-tree) |
@@ -461,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0199-binary-tree-right-side-view) |
+| [0449-serialize-and-deserialize-bst](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0449-serialize-and-deserialize-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0958-check-completeness-of-a-binary-tree) |
@@ -482,5 +488,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0449-serialize-and-deserialize-bst](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0449-serialize-and-deserialize-bst) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 <!---LeetCode Topics End-->
