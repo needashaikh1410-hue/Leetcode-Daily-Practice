@@ -15,20 +15,14 @@ public:
         if(root==nullptr){
             return nullptr;
         }
-    	TreeNode* curr=root;
-        while(curr!=nullptr){
-        if(target==curr->val){
-            return curr;
+        if(target==root->val){
+            return root;
         }
-        if(target>curr->val){
-            curr=curr->right;
+        if(target>root->val){
+            return searchBST(root->right,target);
         }
         else{
-            curr=curr->left;
+            return searchBST(root->left,target);
         }
-
-        }
-        return nullptr;
-  
     }
 };
