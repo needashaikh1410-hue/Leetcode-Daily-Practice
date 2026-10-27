@@ -12,24 +12,35 @@
 class Solution {
 public:
     vector<int> preorderTraversal(TreeNode* root) {
-        vector<int> po;
+           vector <int> preorder;
         if(root==nullptr){
-            return po;
+            return preorder;
         }
-        stack<TreeNode*> st;
-        st.push(root);
-        while(!st.empty()){
-            root=st.top();
-            st.pop();
-            po.push_back(root->val);
-            if(root->right!=nullptr){
-                st.push(root->right);
+        TreeNode* curr=root;
+        while(curr!=nullptr){
+            if(curr->left==nullptr){
+                preorder.push_back(curr->val);
+                curr=curr->right;
             }
-            if(root->left!=nullptr){
-                st.push(root->left);
+            else{
+                TreeNode* prev=curr->left;
+                while(prev->right!=nullptr && prev->right!=curr  ){
+                    prev=prev->right;
+                }
+                if(prev->right==nullptr){
+                    prev->right=curr;
+                    preorder.push_back(curr->val);
+                    curr=curr->left;
+                }
+                else{
+                    prev->right=nullptr;
+                    curr=curr->right;
+                }
             }
 
+           
         }
-        return po;
+
+         return preorder;
     }
 };
