@@ -432,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0662-maximum-width-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -457,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0662-maximum-width-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -492,5 +494,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0449-serialize-and-deserialize-bst](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0449-serialize-and-deserialize-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 <!---LeetCode Topics End-->
