@@ -11,23 +11,18 @@
  */
 class Solution {
 private:
-    bool solve(TreeNode* root,TreeNode* maxi,TreeNode* mini){
+    bool isBST(TreeNode* root,long long minval,long long maxval){
         if(root==nullptr){
             return true;
         }
-
-        if((maxi!=nullptr && root->val >=maxi->val) || (mini!=nullptr && root->val <= mini->val)){
+        if(root->val<=minval || root->val>=maxval){
             return false;
         }
+        return isBST(root->left,minval,root->val) && isBST(root->right,root->val,maxval);
 
-        return solve(root->left,root,mini)&&
-        solve(root->right,maxi,root);
     }
 public:
     bool isValidBST(TreeNode* root) {
-        if(root==nullptr){
-            return true;
-        }
-       return solve(root,nullptr,nullptr) ;
+        return isBST(root,LLONG_MIN,LLONG_MAX);
     }
 };
