@@ -10,36 +10,36 @@
 
 class Solution {
 private:
-    void inorder(TreeNode* root, vector<TreeNode*>& nodes) {
-        if (root == nullptr) return;
-        
-        inorder(root->left, nodes);
-        nodes.push_back(root); // Store raw node pointers in order
-        inorder(root->right, nodes);
+TreeNode* prev;
+TreeNode* first;
+TreeNode* middle;
+TreeNode* last;
+void inorder(TreeNode* root){
+    if(root==nullptr){
+        return ;
     }
+    inorder(root->left);
+    if(prev!=nullptr && root->val<prev->val){
+        if(first==nullptr){
+            first=prev;
+            middle=root;
+        }
+        else{
+            last=root;
+        }
+    }
+    prev=root;
+    inorder(root->right);
+}
 public:
     void recoverTree(TreeNode* root) {
-       vector<TreeNode*> nodes;
-        inorder(root, nodes);
-
-        TreeNode* first = nullptr;
-        TreeNode* second = nullptr;
-
-        // Find inversions directly by comparing node values in the pointer array
-        for (int i = 0; i < nodes.size() - 1; i++) {
-            if (nodes[i]->val > nodes[i + 1]->val) {
-                if (first == nullptr) {
-                    first = nodes[i];        // First violation element
-                    second = nodes[i + 1];  // Candidate neighbor
-                } else {
-                    second = nodes[i + 1];  // Second violation element
-                }
-            }
-        }
-
-        // Swap the values directly at the memory locations
-        if (first != nullptr && second != nullptr) {
-            swap(first->val, second->val);
-        }
+       first=nullptr,last=nullptr,prev=nullptr,middle=nullptr;
+       inorder(root);
+       if(first!=nullptr && last!=nullptr){
+            swap(first->val,last->val);
+       }
+       else if(first!=nullptr && middle!=nullptr){
+            swap(first->val,middle->val);
+       } 
     }
 };
