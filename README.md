@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0860-lemonade-change) |
 | [0904-fruit-into-baskets](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0907-sum-of-subarray-minimums) |
+| [0912-sort-an-array](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0912-sort-an-array) |
 | [0930-binary-subarrays-with-sum](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/1004-max-consecutive-ones-iii) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0240-search-a-2d-matrix-ii](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0240-search-a-2d-matrix-ii) |
+| [0912-sort-an-array](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0912-sort-an-array) |
 ## Simulation
 |  |
 | ------- |
@@ -382,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0239-sliding-window-maximum) |
+| [0912-sort-an-array](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0912-sort-an-array) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -413,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0088-merge-sorted-array) |
 | [0435-non-overlapping-intervals](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0455-assign-cookies) |
+| [0912-sort-an-array](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0912-sort-an-array) |
 ## Quicksort
 |  |
 | ------- |
@@ -541,4 +545,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0173-binary-search-tree-iterator) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/needashaikh1410-hue/Leetcode-Daily-Practice/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
